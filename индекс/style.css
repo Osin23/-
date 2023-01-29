@@ -1,0 +1,41 @@
+header{
+background-color: lightblue;
+
+}
+
+h1 {
+
+
+}
+
+header img {
+    margin:5px;
+
+
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+color:purple ;
+font-size:100px ;
+}
+footer p{ 
+background-color: lightblue;
+color: maroon;
+
+}
+
+nav {
+    background-color: olivedrab;
+}
+
+nav a{
+text-decoration: none;
+}
+
+
+
+
